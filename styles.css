@@ -17,10 +17,11 @@ h1{
 }
 #searchbar{
     margin-right: 300px;
+    margin-left: 300px;
 }
 .login{
     display: inline-block;
-    margin-right:10px ;
+   margin-left: 250px;
     color: white;
 }
 .cart{
